@@ -6,10 +6,10 @@ if (number < 10 ){
 console.log("ruhhhhh");
 
 //-----while loop----
-let num = 0;
-while (num < 5){
-    console.log("fgehg",num);
-    num = num + 1;
+let num = 0;//loop variable
+while (num < 5){  //loop condition
+    console.log("fgehg",num);  //loop statement
+    num = num + 1;  //loop variable change
     //num++;
     //num +=1;
 }
